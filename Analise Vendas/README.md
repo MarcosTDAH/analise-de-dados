@@ -158,3 +158,29 @@ Este projeto permitiu praticar:
 ---
 
 **Projeto educacional de análise de dados desenvolvido para fins de aprendizado e portfólio profissional.**
+
+## Dashboard no Power BI
+
+Foi desenvolvido um dashboard interativo no Power BI Desktop, utilizando dados armazenados no PostgreSQL.
+
+### Indicadores principais
+
+- **Faturamento total:** R$ 22.410,00
+- **Unidades vendidas:** 41
+- **Registros de vendas:** 12
+- **Produto com maior faturamento:** Notebook
+- **Categoria com maior faturamento:** Computadores
+
+### Funcionalidades
+
+- Indicadores calculados com medidas DAX.
+- Gráfico de faturamento por produto.
+- Gráfico de faturamento por categoria.
+- Filtros interativos por categoria e data.
+- Modelo relacional entre as tabelas `produtos` e `vendas`.
+
+### Visualização do dashboard
+
+[Visualizar o dashboard em PDF](dashboard_vendas.pdf)
+
+**Observação:** os dados são fictícios e utilizados exclusivamente para fins educacionais e de portfólio.
