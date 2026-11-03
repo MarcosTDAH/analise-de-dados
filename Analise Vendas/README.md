@@ -181,6 +181,7 @@ Foi desenvolvido um dashboard interativo no Power BI Desktop, utilizando dados a
 
 ### Visualização do dashboard
 
+![Dashboard de Análise de Vendas](imagens/dashboard_vendas.png)
 [Visualizar o dashboard em PDF](dashboard_vendas.pdf)
 
 **Observação:** os dados são fictícios e utilizados exclusivamente para fins educacionais e de portfólio.

@@ -18,6 +18,8 @@ __pycache__/
 
 # Configurações locais
 .vscode/
-DASHBOARDS ORIGINAIS/
-.DASHBOARDS ORIGINAIS/
-.pbix
+# Arquivos originais e editáveis do Power BI
+/DASHBOARDS ORIGINAIS/
+
+# Arquivos temporários do Power BI
+*.pbitmp
